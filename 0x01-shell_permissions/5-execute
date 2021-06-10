@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 700  hello.txt
+chmod 744 hello
