@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +rwx hello.txt
+chmod 700  hello.txt
