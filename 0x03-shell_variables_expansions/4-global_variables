@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 printenv
+=======
+printenv
+>>>>>>> 44e44b29e3bd280abb54a6ef389a6d9d638f371a
