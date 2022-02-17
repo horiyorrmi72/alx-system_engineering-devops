@@ -1,5 +1,5 @@
-**0x16. API advanced**
-**General**
+**0x16. API advanced**</br>
+**General**</br>
 How to read API documentation to find the endpoints you’re looking for
 How to use an API with pagination
 How to parse JSON results from an API
