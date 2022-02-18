@@ -9,9 +9,8 @@ Wordpress is usually run on LAMP (Linux, Apache, MySQL, and PHP), which is a ver
 The web stack you are debugging today is a Wordpress website running on a LAMP stack."" <br />
 ***More Info***<br />
 ***Install puppet-lint***<br />
-"""
-$ apt-get install -y ruby<br />
-$ gen install puppet-lint -v 2.1.1
+`$ apt-get install -y ruby`<br />
+`$ gen install puppet-lint -v 2.1.1`
 
 # In one terminal of given buggy Docker container
 $ cat /var/log/apache2/error.log # no error found; weird
