@@ -25,7 +25,6 @@ After fixing this line in the '/var/www/html/wp-settings.php' file, tests succed
 <br />
 
 ###### Corrective and Preventive Measures <br />
-
 After a discussion with the team members it has been decided that we can prevent this in future by :
 <br />
 - Test before deploying on all servers no matter how small an update is, since this is a minute incident we were able to rectify it on time. <br />
