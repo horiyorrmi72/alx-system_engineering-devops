@@ -5,7 +5,7 @@
 ###### issue summary<br />
 On February 17th, 2022 from 6:30 PM to 7:30 PM WAT, the company's website was down for one hour. 100% of the users expexperienced ** 500 internal server error ** caused by a typo error in a filename in a configuration file. <br />
 
-######Timeline <br />
+**Timeline** <br />
 -6:30 PM Deployed site outage begins <br />
 -6:31 PM Error Logs checked by the DevOps team <br />
 -6:50 PM Configuration updated to log extra errors <br />
